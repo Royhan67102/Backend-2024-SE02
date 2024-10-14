@@ -4,7 +4,7 @@
 class Animal
 {
     # property animals
-    private $animals = [];
+    public $animals = [];
 
     # method constructor - mengisi data awal
     # parameter: data hewan (array)
